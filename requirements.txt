@@ -1,0 +1,30 @@
+# Minimal class to download shared files from Google Drive.
+googledrivedownloader
+# Fundamental package for scientific computing with Python
+numpy
+# High-performance, easy-to-use data structures and data analysis tools for the Python programming language
+pandas
+# Python-based ecosystem software for mathematics, science, and engineering.
+scipy
+# Machine learning in Python
+scikit-learn
+# Python scikit building and analyzing recommender systems.
+scikit-surprise
+# Turi Create simplifies the development of custom machine learning models
+turicreate
+# An end-to-end open source machine learning platform
+tensorflow
+# High-level neural networks API
+keras
+# Python plotting
+matplotlib
+# Modern Analytic Apps for the Enterprise
+plotly
+# Factorization Machines in Python (2.7 & 3.x) with the well known scikit-learn API
+fastFM==0.2.9
+# Python wrapper for Steffen Rendle's factorization machines library libFM
+pywFM
+# Fast Python Collaborative Filtering for Implicit Datasets
+implicit==0.4.0
+# Python framework for fast Vector Space Modelling
+gensim
